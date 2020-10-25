@@ -40,6 +40,9 @@ function DisplayDt() {
       hdf hdfhdfhdf
       <br />
       <br />
+      <div style={{ textAlign: "right", color: "blue", fontSize: 21 }}>
+        Total Number of employess: <b>{list.length}</b>
+      </div>
       <table border="3" width="100%">
         <thead>
           <tr>
